@@ -6,7 +6,7 @@ A responsive static HTML/CSS/JavaScript website for Sumukh Dental Clinic & Impla
 - `index.html` — website
 - `style.css` — styling and responsive layout
 - `script.js` — mobile navigation and year
-- `assets/` — clinic logo and supplied photographs/design references
+- `assets/` — clinic logo and Dr. Shivam Paliwal professional photo
 
 ## Deploy on Vercel
 1. Create a free account at Vercel.
